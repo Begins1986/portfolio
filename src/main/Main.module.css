@@ -1,0 +1,7 @@
+.mainBlock{
+    height: 100vh;
+    background-color: #eaa7d3;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
