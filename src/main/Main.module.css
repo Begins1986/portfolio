@@ -1,7 +1,18 @@
 .mainBlock{
     height: 100vh;
     background-color: #eaa7d3;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+
+}
+
+
+
+.text{
+    width: 300px;
+    background-color: #9cb3e7;
+}
+
+.photo{
+    width: 300px;
+    height: 400px;
+    background-color: #9cb3e7;
 }
